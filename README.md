@@ -97,7 +97,7 @@ class PatikaMergeSort {
 ```
 ---
 ## Örnek Kodu Çıktısı
-![MergeSortOutOutput]()
+![MergeSortOutOutput](https://github.com/ibrahimertugrulkorkmaz/Patika-Merge-Sort-Project/blob/master/MergeSortCodeOutput.png)
 
 ---
 
